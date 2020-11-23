@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pack": "electron-packager ./ myapp --out ./OutApp --overwrite --icon=./favicon.ico  --download.mirrorOptions.mirror=https://npm.taobao.org/mirrors/electron/"
+    "pack": "electron-packager ./ myapp --out ./movieClipEditor --overwrite --icon=./favicon.ico  --download.mirrorOptions.mirror=https://npm.taobao.org/mirrors/electron/"
   },
   "author": "",
   "license": "ISC",
