@@ -1,0 +1,15 @@
+{
+  "name": "movieclipeditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pack": "electron-packager ./ myapp --out ./OutApp --overwrite --icon=./favicon.ico  --download.mirrorOptions.mirror=https://npm.taobao.org/mirrors/electron/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.5"
+  }
+}
