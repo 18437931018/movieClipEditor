@@ -54,7 +54,7 @@ function drawToCanvs(data, newUrl) {
         canvas.addChild(mc1);
         mc = mc1;
         mc1.gotoAndPlay(1, -5);
-        mc1.x = 380;
-        mc1.y = 200;
+        mc1.x = 460;
+        mc1.y = 460;
     }
 }
